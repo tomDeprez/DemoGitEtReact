@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "nx 310",
+      "price": "70,00€",
+      "image": "https://via.placeholder.com/150",
+      "action": "View"
+    },
+    {
+      "id": 2,
+      "name": "p5",
+      "price": "58,00€",
+      "image": "https://via.placeholder.com/150",
+      "action": "View"
+    },
+    {
+      "id": 3,
+      "name": "nsk4100",
+      "price": "60,00€",
+      "image": "https://via.placeholder.com/150",
+      "action": "View"
+    },
+    {
+      "id": 4,
+      "name": "vsk3000",
+      "price": "44,99€",
+      "image": "https://via.placeholder.com/150",
+      "action": "View"
+    }
+  ]
